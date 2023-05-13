@@ -1,0 +1,17 @@
+PS Driver
+GS Driver
+Printer Driver
+Node
+PM2 (npm install pm2@latest -g)
+PM2 Windows Startup (npm install pm2-windows-startup -g)
+
+Commands-----------
+pm2 start yourfile.js --name "process-name" --watch
+pm2 start yourfile.js --name "process-name" --no-watch
+11:31 AM
+npm install pm2 -g
+pm2 status
+pm2 stop process-name
+pm2 start process-name
+pm2 delete process-name
+pm2 monit

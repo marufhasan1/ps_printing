@@ -1,0 +1,4 @@
+https://ghostscript.com/docs/9.54.0/Devices.htm#gimp-print
+https://ghostscript.com/docs/9.54.0/Use.htm#Rendering_parameters
+
+https://github.com/mondorobot/postscript-maker.js?files=1
