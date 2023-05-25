@@ -2,3 +2,4 @@ https://ghostscript.com/docs/9.54.0/Devices.htm#gimp-print
 https://ghostscript.com/docs/9.54.0/Use.htm#Rendering_parameters
 
 https://github.com/mondorobot/postscript-maker.js?files=1
+https://community.adobe.com/t5/postscript-discussions/multiple-paper-size-in-postscript/m-p/1606790
